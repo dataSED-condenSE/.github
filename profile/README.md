@@ -1,7 +1,7 @@
 # condenSE: Sustainable Training of Code Language Models through Data Refinement
 
 [![MSCA](https://img.shields.io/badge/MSCA-Project%20101151798-blue)](https://cordis.europa.eu/project/id/101151798)
-[![EU Funding](https://img.shields.io/badge/Funded%20by-European%20Union-yellow)]()
+[![EU Funding](https://img.shields.io/badge/Funded%20by-European%20Union-yellow)](https://marie-sklodowska-curie-actions.ec.europa.eu/)
 
 > **Marie Skłodowska-Curie Actions (MSCA) Postdoctoral Fellowship**  
 > Project ID: 101151798
